@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403730538544",
+    "project_id": "uptech-ee241",
+    "storage_bucket": "uptech-ee241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403730538544:android:26ad4fd5e494b726b30df5",
+        "android_client_info": {
+          "package_name": "com.example.uptech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHlrAyAypwmClsVF8G-rQ6Fx-Rxs-nb0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403730538544:android:44c6e3bb2682b7f3b30df5",
+        "android_client_info": {
+          "package_name": "com.system.uptech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHlrAyAypwmClsVF8G-rQ6Fx-Rxs-nb0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

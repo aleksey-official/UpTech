@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UpTech</string>
+    <string name="uptech">UpTech</string>
+    <string name="ecosystem">Вход в экосистему</string>
+    <string name="email">Твоя почта</string>
+    <string name="password">Твой пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="login">Войти</string>
+    <string name="registration">Нет аккаунта? Создать!</string>
+</resources>
